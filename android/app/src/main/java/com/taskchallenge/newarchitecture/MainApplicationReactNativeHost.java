@@ -1,4 +1,4 @@
-package com.taskchallengeapp.newarchitecture;
+package com.taskchallenge.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.taskchallengeapp.BuildConfig;
-import com.taskchallengeapp.newarchitecture.components.MainComponentsRegistry;
-import com.taskchallengeapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.taskchallenge.BuildConfig;
+import com.taskchallenge.newarchitecture.components.MainComponentsRegistry;
+import com.taskchallenge.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
